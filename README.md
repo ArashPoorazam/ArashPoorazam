@@ -26,7 +26,7 @@
 
 ### ⚙️ Things I enjoy
 
-- 🐹 Building smart, simple systems software with **Go**
+- 🐹 Building smart, simple software systems with **Go**
 - 🌐 Learning more about **networking & low-level programming**
 - 🧩 Understanding the concepts and ideas behind every piece of logic
 - 🛠️ Building real projects instead of only following tutorials (hypocrisy)
