@@ -5,30 +5,33 @@
 </p>
 
 <p align="center">
-  We live in the dreams of Alan Turing, enjoy every single moment of it<br/>
-  Our duty is to build useful tools to make the world a better place
+  We live in the dreams of Alan Turing. Enjoy every single moment of it.<br/>
+  Our duty is to build useful tools that make the world a better place.
 </p>
 
 <p align="center">
-  <i>"my back pain is the byproduct of my love for computers"</i>
-</p><br>
+  <i>"My back pain is the byproduct of my love for computers."</i>
+</p>
 
+<br>
+
+<pre align="center">
 ██████╗  █████╗ ███████╗██████╗  █████╗ ██╗     ██╗   ██╗███████╗
 ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██║     ██║   ██║██╔════╝
 ██║  ██║███████║█████╗  ██║  ██║███████║██║     ██║   ██║███████╗
 ██║  ██║██╔══██║██╔══╝  ██║  ██║██╔══██║██║     ██║   ██║╚════██║
 ██████╔╝██║  ██║███████╗██████╔╝██║  ██║███████╗╚██████╔╝███████║
 ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
-                                                                 
+</pre>
 
 ### ⚙️ Things I enjoy
 
-- 🐹 Building Smart simple systems software with **Go**
-- 🌐 Learning more about **networking & low level programming**
-- 🧩 Understanding the concepts and ideas behind every logic
+- 🐹 Building smart, simple systems software with **Go**
+- 🌐 Learning more about **networking & low-level programming**
+- 🧩 Understanding the concepts and ideas behind every piece of logic
 - 🛠️ Building real projects instead of only following tutorials (hypocrisy)
-- 🐧 Spending probably too much time in **Linux & the terminal**
-- 📚 Always learning something new<br>
+- 🐧 Spending probably too much time on **Linux & the terminal**
+- 📚 Always learning something new
 
 ### 🚀 Projects
 
@@ -39,22 +42,25 @@ Explore and listen to radio, podcasts, and TV channels through an interactive gl
 An RSS feed aggregator built in Go.
 
 **📺 [youtube_extractor](https://github.com/ArashPoorazam/youtube_extractor)**  
-Telegram bot for downloading video, audio, and subtitles from YouTube.
+A Telegram bot for downloading video, audio, and subtitles from YouTube.
 
 **🌐 [Bomish](https://github.com/ArashPoorazam/Bomish)**  
-One of the projects from my journey building things for the web.<br>
+One of the projects from my journey of building things for the web.
 
 ### 🛠️ Toolbox
 
 <p>
   <img src="https://skillicons.dev/icons?i=go,ts,js,python,react,nextjs,postgres,docker,linux,git,github&perline=11" />
-</p><br>
+</p>
+
+<br>
 
 ### 🌱 Currently
 
-Figuring out how to use AI to create best sofwares possible. being fast was never my priority.
+Figuring out how to use AI to create the best software possible. Being fast has never been my priority.
+
 <br>
 
 <p align="center">
-  <sub>I really don't like sharing my passionate projects on github but here are some just for showcase</sub>
+  <sub>I really don't like sharing my passion projects on GitHub, but here are a few just for showcase.</sub>
 </p>
