@@ -43,16 +43,11 @@ One of the projects from my journey building things for the web.
   <img src="https://skillicons.dev/icons?i=go,ts,js,python,react,nextjs,postgres,docker,linux,git,github&perline=11" />
 </p>
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArashPoorazam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArashPoorazam&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
 ### 🌱 Currently
 
 Figuring out how to use AI to create best sofwares possible. being fast was never my priority.
+
+
 
 <p align="center">
   <sub>I really don't like sharing my passionate projects on github but here are some just for showcase</sub>
