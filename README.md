@@ -36,7 +36,7 @@
 ### 🚀 Projects
 
 **🌍 [Blomoon](https://github.com/ArashPoorazam/blomoon)**  
-Explore and listen to radio, podcasts, and TV channels through an interactive globe. Listen in [blomoon.ir](blomoon.ir).
+Explore and listen to radio, podcasts, and TV channels through an interactive globe. Try it at [blomoon.ir](blomoon.ir).
 
 **🐊 [Gator](https://github.com/ArashPoorazam/Gator)**  
 An RSS feed aggregator built in Go.
