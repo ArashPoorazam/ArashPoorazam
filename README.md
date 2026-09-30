@@ -10,16 +10,16 @@
 </p>
 
 <p align="center">
-  <i>"This civilization must reach it's destiny"</i>
+  <i>"my back pain is the byproduct of my love for computers"</i>
 </p>
 
 
 ### ⚙️ Things I enjoy
 
-- 🐹 Building fast, simple software with **Go**
-- 🌐 Learning more about **networking & distributed systems**
-- 🧩 Understanding what happens beneath abstractions
-- 🛠️ Building real projects instead of only following tutorials
+- 🐹 Building Smart simple systems software with **Go**
+- 🌐 Learning more about **networking & low level programming**
+- 🧩 Understanding the concepts and ideas behind every logic
+- 🛠️ Building real projects instead of only following tutorials (hypocrisy)
 - 🐧 Spending probably too much time in **Linux & the terminal**
 - 📚 Always learning something new
 
@@ -52,12 +52,7 @@ One of the projects from my journey building things for the web.
 
 ### 🌱 Currently
 
-```text
-learning   → Go, networking, systems
-building   → whatever seems interesting
-goal       → understand more, build better
-status     → still learning
-```
+Figuring out how to use AI to create best sofwares possible. being fast was never my priority.
 
 ### 🤝 Find me
 
