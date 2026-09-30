@@ -53,23 +53,8 @@ One of the projects from my journey building things for the web.
 ### 🌱 Currently
 
 Figuring out how to use AI to create best sofwares possible. being fast was never my priority.
-
-### 🤝 Find me
-
-<p>
-  <a href="https://www.linkedin.com/in/arash-poorazam-b3a6a8292">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/DaedalusThoughts">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/ArashPoorazam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
-  <sub>Build. Break. Understand. Repeat.</sub>
+  <sub>I really don't like sharing my passionate projects on github but here are some just for showcase</sub>
 </p>
