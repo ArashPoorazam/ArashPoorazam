@@ -13,6 +13,14 @@
   <i>"my back pain is the byproduct of my love for computers"</i>
 </p><br>
 
+██████╗  █████╗ ███████╗██████╗  █████╗ ██╗     ██╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██║     ██║   ██║██╔════╝
+██║  ██║███████║█████╗  ██║  ██║███████║██║     ██║   ██║███████╗
+██║  ██║██╔══██║██╔══╝  ██║  ██║██╔══██║██║     ██║   ██║╚════██║
+██████╔╝██║  ██║███████╗██████╔╝██║  ██║███████╗╚██████╔╝███████║
+╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
+                                                                 
+
 ### ⚙️ Things I enjoy
 
 - 🐹 Building Smart simple systems software with **Go**
@@ -37,11 +45,13 @@ Telegram bot for downloading video, audio, and subtitles from YouTube.
 One of the projects from my journey building things for the web.<br>
 
 ### 🛠️ Toolbox
+
 <p>
   <img src="https://skillicons.dev/icons?i=go,ts,js,python,react,nextjs,postgres,docker,linux,git,github&perline=11" />
 </p><br>
 
 ### 🌱 Currently
+
 Figuring out how to use AI to create best sofwares possible. being fast was never my priority.
 <br>
 
