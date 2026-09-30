@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <i>"The wheel turns slowly, but it turns."</i>
+  <i>"This civilization must reach it's destiny"</i>
 </p>
 
 
