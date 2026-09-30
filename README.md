@@ -38,7 +38,7 @@
 **🌍 [Blomoon](https://github.com/ArashPoorazam/blomoon)**  
 Explore and listen to radio, podcasts, and TV channels through an interactive globe. Try it at [blomoon.ir](blomoon.ir).
 
-**🌐 [Bomish](https://github.com/ArashPoorazam/Bomish)**  
+**🌿 [Bomish](https://github.com/ArashPoorazam/Bomish)**  
 I built my father's e-commerce website that sells herbs/spices at [bomish.ir](bomish.ir). (it is not deployed yet)
 
 **🐊 [Gator](https://github.com/ArashPoorazam/Gator)**  
