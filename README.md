@@ -45,7 +45,7 @@ An RSS feed aggregator built in Go.
 A Telegram bot for downloading video, audio, and subtitles from YouTube.
 
 **🌐 [Bomish](https://github.com/ArashPoorazam/Bomish)**  
-One of the projects from my journey of building things for the web.
+I built my father's e-commerce website that sells herbs/spices at (bomish.ir)[bomish.ir]. (it is not deployed yet)
 
 ### 🛠️ Toolbox
 
