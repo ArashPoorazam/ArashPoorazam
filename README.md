@@ -1,50 +1,18 @@
-<h1 align="center">Hey, I'm Arash 👋</h1>
+<h1 align="center">Hey, This is Daedalus 👋</h1>
 
 <p align="center">
-  <b>Software Developer · Builder · Always Learning</b>
+  <b>Developer · Builder · Student</b>
 </p>
 
 <p align="center">
-  I like understanding how things work under the hood,<br/>
-  building useful things, and getting a little better every day.
+  We live in the dreams of Alan Turing, enjoy every single moment of it<br/>
+  Our duty is to build useful tools to make the world a better place
 </p>
 
 <p align="center">
   <i>"The wheel turns slowly, but it turns."</i>
 </p>
 
----
-
-### 🧠 About me
-
-```go
-package main
-
-type Developer struct {
-    Name      string
-    Focus     []string
-    Languages []string
-}
-
-func main() {
-    me := Developer{
-        Name: "Arash Poorazam",
-        Focus: []string{
-            "Backend Engineering",
-            "Systems Programming",
-            "Networking",
-            "Building things from scratch",
-        },
-        Languages: []string{
-            "Go",
-            "TypeScript",
-            "Python",
-        },
-    }
-
-    _ = me // always a work in progress
-}
-```
 
 ### ⚙️ Things I enjoy
 
