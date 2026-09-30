@@ -11,8 +11,7 @@
 
 <p align="center">
   <i>"my back pain is the byproduct of my love for computers"</i>
-</p>
-<br>
+</p><br>
 
 ### ⚙️ Things I enjoy
 
@@ -21,8 +20,7 @@
 - 🧩 Understanding the concepts and ideas behind every logic
 - 🛠️ Building real projects instead of only following tutorials (hypocrisy)
 - 🐧 Spending probably too much time in **Linux & the terminal**
-- 📚 Always learning something new
-<br>
+- 📚 Always learning something new<br>
 
 ### 🚀 Projects
 
@@ -36,15 +34,12 @@ An RSS feed aggregator built in Go.
 Telegram bot for downloading video, audio, and subtitles from YouTube.
 
 **🌐 [Bomish](https://github.com/ArashPoorazam/Bomish)**  
-One of the projects from my journey building things for the web.
-<br>
+One of the projects from my journey building things for the web.<br>
 
 ### 🛠️ Toolbox
-
 <p>
   <img src="https://skillicons.dev/icons?i=go,ts,js,python,react,nextjs,postgres,docker,linux,git,github&perline=11" />
-</p>
-<br>
+</p><br>
 
 ### 🌱 Currently
 Figuring out how to use AI to create best sofwares possible. being fast was never my priority.
