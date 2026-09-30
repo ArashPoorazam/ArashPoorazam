@@ -53,7 +53,6 @@ One of the projects from my journey building things for the web.
 ### 🌱 Currently
 
 Figuring out how to use AI to create best sofwares possible. being fast was never my priority.
----
 
 <p align="center">
   <sub>I really don't like sharing my passionate projects on github but here are some just for showcase</sub>
