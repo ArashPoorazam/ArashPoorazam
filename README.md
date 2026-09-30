@@ -1,4 +1,4 @@
-<h1 align="center">Hey, This is Daedalus 👋</h1>
+<h1 align="center">Hey, This is Arash 👋</h1>
 
 <p align="center">
   <b>Developer · Builder · Student</b>
